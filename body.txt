@@ -3,7 +3,7 @@ Lately, there has been a lot of speculation surrounding the switch to LED light 
 The wattage rating on fixtures such as ceiling fans, lamps, or general overhead lights exists for safety reasons; to prevent light bulbs (primarily incandescents, which generate a lot of heat) from damaging bulbs or fixtures. Unlike incandescents, LEDs are able to convert much more of the energy they are supplied with into usable light rather than heat. In fact, it’s the main reason they are so efficient. The term “60-Watt equal” has little to do with any kind of wattage correlation; a 60W equal LED may use as little as 8 Watts to operate. It simply means that the bulb, whether CFL or LED, is able to produce as much light as a 60-Watt incandescent.
 
 While the general rule of thumb with incandescents is the higher the wattage, the brighter the light, with energy-efficient bulbs (which all use very little power) you should be paying attention to lumens instead. Lumens are the direct measurement of brightness; not watts, which measure power requirements. LED bulbs that deliver 800 lm are considered to have equal light output to standard 60W bulbs. Consider the chart below to learn the average amount of lumens for popular incandescent bulbs.
-
-new
-
 new chapter 1
+
+add
+more
