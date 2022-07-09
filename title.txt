@@ -1,8 +1,0 @@
-Chapter 1
-- Sujin Lee
-  This is my first git project
-  
-====
-change
-====
-i will change title later
